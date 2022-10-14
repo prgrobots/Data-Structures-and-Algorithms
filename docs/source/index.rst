@@ -1,4 +1,4 @@
-Welcome to My!
+Welcome to My docs!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
